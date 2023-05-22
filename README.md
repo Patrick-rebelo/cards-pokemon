@@ -1,8 +1,3 @@
-<p align="center">
-<img src=".github/poke(1).jpg" alt= "imagem-preview"
-width= "100%" />
-</p>
-
 ## 💻 PROJETO
 O objetivo desse projeto é trazer as informações sobre 10 Pokémons, através de uma pagina web responsiva de cards pokemons:
 
