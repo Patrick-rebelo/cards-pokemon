@@ -1,4 +1,4 @@
-## 💻 PROJETO
+## 💻 SOBRE O PROJETO
 O objetivo desse projeto é trazer as informações sobre 10 Pokémons, através de uma pagina web responsiva de cards pokemons:
 
 - Nome
